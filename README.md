@@ -1,4 +1,6 @@
-# EDA_Car_Price_Python
+# EDA of Car Prices Using Python
+
+The objective of this EDA project is to gain a comprehensive understanding of a dataset containing information about vehicles, including their pricing. By conducting exploratory data analysis, we aim to uncover insights, patterns, and relationships within the data, which can be valuable for pricing strategies, market research, and decision-making in the automotive industry.
 
 ### Dataset Description
 * **ID:** Unique Identifier of a vehicle
@@ -31,3 +33,6 @@
 * **Python** programming language.
 * Libraries such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** for data manipulation and visualization.
 * **Jupyter Notebook** in Visual Studio for documentation and analysis.
+
+### Conclusion
+This EDA project has provided a deeper understanding of vehicle pricing and the factors that influence it. The insights gained from this analysis can be leveraged for pricing strategies, market positioning, and decision-making in the automotive industry.
