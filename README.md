@@ -34,5 +34,16 @@ The objective of this EDA project is to gain a comprehensive understanding of a 
 * Libraries such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** for data manipulation and visualization.
 * **Jupyter Notebook** in Visual Studio for documentation and analysis.
 
+### Insights
+* The dataset contains 19,237 rows and 18 columns representing used car listing details like make, model, year, mileage, price etc.
+* Hyundai and Toyota are the top selling models, with over 3,700 and 3,600 listings respectively. Average Hyundai price is around $22k.
+* Luxury brands like Lamborghini, Bentley and Ferrari rank highest in average price, while mainstream brands like Hyundai, Toyota and Ford rank much lower.
+* The most expensive model listed is the Opel Combo at over $260k. Next highest models are in the $80k-$90k range.
+* Petrol is by far the most common fuel type. Plug-in hybrid models have the highest median price, while CNG has the lowest.
+* Most cars listed are relatively new - less than 10 years old. Only a small percentage of listings are over 20 years old.
+* There is very little correlation between price and levy amount, indicating levy is not a major factor in used car pricing.
+* Cars with leather interiors tend to have a higher average price than those without, across different makes.
+* Average used car price shows an overall increasing trend from the 1940s to 2020s, with some drops and variability. Prices have surged since the 2010s.
+
 ### Conclusion
 This EDA project has provided a deeper understanding of vehicle pricing and the factors that influence it. The insights gained from this analysis can be leveraged for pricing strategies, market positioning, and decision-making in the automotive industry.
