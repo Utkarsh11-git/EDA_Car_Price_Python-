@@ -31,15 +31,14 @@ The objective of this EDA project is to gain a comprehensive understanding of a 
 
 ### Insights
 * The dataset contains 19,237 rows and 18 columns representing used car listing details like make, model, year, mileage, price etc.
-* Hyundai and Toyota are the top-selling models, with over 3,700 and 3,600 listings respectively. The average Hyundai price is around $22k.
+* Hyundai and Toyota are the top-selling models. The average Hyundai price is around $22k.
 * Luxury brands like Lamborghini, Bentley, and Ferrari rank highest in average price, while mainstream brands like Hyundai, Toyota, and Ford rank much lower.
 * The most expensive model listed is the Opel Combo at over $260k. The next highest models are in the $80k-$90k range.
 * Petrol is by far the most common fuel type. Plug-in hybrid models have the highest median price, while CNG has the lowest.
-* Most cars listed are relatively new - less than 10 years old. Only a small percentage of listings are over 20 years old.
+* Most cars listed are relatively new. They were introduced less than 20 years ago. Only a small percentage of listings are older. <p align="center"> <img src="https://github.com/Utkarsh11-git/EDA_Car_Price_Python-/assets/92782014/a6e9ae75-9c99-4023-b1cc-3c3e23186b33.png" width="600" height="400"> </p>
 * There is very little correlation between price and levy amount, indicating levy is not a major factor in used car pricing.
 * Cars with leather interiors tend to have a higher average price than those without, across different makes.
-* Average used car price shows an overall increasing trend from the 1940s to 2020s, with some drops and variability. Prices have surged since the 2010s.
-  ![image](https://github.com/Utkarsh11-git/EDA_Car_Price_Python-/assets/92782014/ff2a1315-8d0b-42c5-9ff7-4050f49db311)
+* Average used car price shows an overall increasing trend from the 1940s to the 2020s, with some drops and variability. Prices have surged since the 2010s.<p align="center"> <img src="https://github.com/Utkarsh11-git/EDA_Car_Price_Python-/assets/92782014/ff2a1315-8d0b-42c5-9ff7-4050f49db311.png" width="650" height="450"> </p>
 
 ### Tools and Libraries
 * **Python** programming language.
