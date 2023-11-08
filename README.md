@@ -34,7 +34,7 @@ The objective of this EDA project is to gain a comprehensive understanding of a 
 * Hyundai and Toyota are the top-selling models. The average Hyundai price is around $22k.
 * Luxury brands like Lamborghini, Bentley, and Ferrari rank highest in average price, while mainstream brands like Hyundai, Toyota, and Ford rank much lower.
 * The most expensive model listed is the Opel Combo at over $260k. The next highest models are in the $80k-$90k range.
-* Petrol is by far the most common fuel type. Plug-in hybrid models have the highest median price, while CNG has the lowest.<p align="center"> <img src="https://github.com/Utkarsh11-git/EDA_Car_Price_Python-/assets/92782014/854996c8-eaa3-4fae-9fa1-71ea39c168f4.png" width="600" height="300"> </p>
+* Petrol is by far the most common fuel type. Plug-in hybrid models have the highest median price, while CNG has the lowest.<p align="center"> <img src="https://github.com/Utkarsh11-git/EDA_Car_Price_Python-/assets/92782014/d193099a-7ee3-4f66-903c-0a8b292d9dac.png" width="600" height="300"> </p>
 * Most cars listed are relatively new. They were introduced less than 20 years ago. Only a small percentage of listings are older. <p align="center"> <img src="https://github.com/Utkarsh11-git/EDA_Car_Price_Python-/assets/92782014/a6e9ae75-9c99-4023-b1cc-3c3e23186b33.png" width="600" height="400"> </p>
 * There is very little correlation between price and levy amount, indicating levy is not a major factor in used car pricing.
 * Cars with leather interiors tend to have a higher average price than those without, across different makes.
