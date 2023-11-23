@@ -42,7 +42,7 @@ The objective of this EDA project is to gain a comprehensive understanding of a 
 
 ### Tools and Libraries
 * **Python** programming language.
-* Libraries such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** for data manipulation and visualization.
+* Libraries such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** and ***Sklearn** for data manipulation and visualization.
 * **Jupyter Notebook** in Visual Studio for documentation and analysis.
 
 ### Conclusion
