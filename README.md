@@ -39,6 +39,7 @@ The objective of this EDA project is to gain a comprehensive understanding of a 
 * There is very little correlation between price and levy amount, indicating levy is not a major factor in used car pricing.
 * Cars with leather interiors tend to have a higher average price than those without, across different makes.
 * Average used car price shows an overall increasing trend from the 1940s to the 2020s, with some drops and variability. Prices have surged since the 2010s.<p align="center"> <img src="https://github.com/Utkarsh11-git/EDA_Car_Price_Python-/assets/92782014/ff2a1315-8d0b-42c5-9ff7-4050f49db311.png" width="650" height="450"> </p>
+* The linear regression model predicts a steep decline in the price in 2021 followed by a steady increase of over $1,000 every year
 
 ### Tools and Libraries
 * **Python** programming language.
