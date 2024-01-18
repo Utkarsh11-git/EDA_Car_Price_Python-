@@ -2,13 +2,13 @@
 
 The objective of this EDA project is to gain a comprehensive understanding of a dataset containing information about vehicles, including their pricing. By conducting exploratory data analysis, we aim to uncover insights, patterns, and relationships within the data, which can be valuable for pricing strategies, market research, and decision-making in the automotive industry.
 
-### Objective
+### ❓Objective
 * **Data Exploration**: Explore the dataset to understand its structure, missing values, and basic statistics.
 * **Data Cleaning**: Preprocess the data by handling missing values, outliers, and formatting issues.
 * **Descriptive Analysis**: Conduct exploratory data analysis to uncover patterns and relationships in the data.
 * **Visualizations**: Create visualizations (e.g., bar charts, histograms) to present findings effectively.
 
-### Insights
+### 💡Insights
 * The dataset contains 19,237 rows and 18 columns representing used car listing details like make, model, year, mileage, price etc.
 * Hyundai and Toyota are the top-selling models. The average Hyundai price is around $22k.
 * Luxury brands like Lamborghini, Bentley, and Ferrari rank highest in average price, while mainstream brands like Hyundai, Toyota, and Ford rank much lower.
@@ -20,7 +20,7 @@ The objective of this EDA project is to gain a comprehensive understanding of a 
 * Average used car price shows an overall increasing trend from the 1940s to the 2020s, with some drops and variability. Prices have surged since the 2010s.<p align="center"> <img src="https://github.com/Utkarsh11-git/EDA_Car_Price_Python-/assets/92782014/ff2a1315-8d0b-42c5-9ff7-4050f49db311.png" width="650" height="450"> </p>
 * The linear regression model predicts a steep decline in the price in 2021 followed by a steady increase of over $1,000 every year
 
-### Tools and Libraries
+### 🛠️ Tools and Libraries
 * **Python** programming language.
 * Libraries such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** and **Sklearn** for data manipulation and visualization.
 * **Jupyter Notebook** in Visual Studio for documentation and analysis.
