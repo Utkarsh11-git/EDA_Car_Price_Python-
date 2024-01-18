@@ -25,5 +25,5 @@ The objective of this EDA project is to gain a comprehensive understanding of a 
 * Libraries such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** and **Sklearn** for data manipulation and visualization.
 * **Jupyter Notebook** in Visual Studio for documentation and analysis.
 
-### Conclusion
+### 💡Conclusion
 This EDA project has provided a deeper understanding of vehicle pricing and the factors that influence it. The insights gained from this analysis can be leveraged for pricing strategies, market positioning, and decision-making in the automotive industry.
